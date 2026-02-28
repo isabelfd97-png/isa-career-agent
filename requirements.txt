@@ -1,6 +1,6 @@
 python-telegram-bot==20.3
 requests
-anthropic
+anthropic==0.18.1
 openai
 flask
 httpx==0.24.1
